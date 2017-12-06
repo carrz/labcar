@@ -1,0 +1,220 @@
+
+body{
+  font-family: 'PT Sans', sans-serif !important;
+}
+.no-margin{
+  margin: 0 !important;
+}
+.no-padding{
+  padding: 0 !important;
+}
+/*Navbar*/
+.navbar-css{
+	background-color: #FFF !important;
+	height: 5em;
+	border: none !important;
+	margin: 2em 0;
+}
+.navbar-logo{
+  margin-left: 5em;
+}
+.navbar-brand{
+  padding: 0.6em !important;
+}
+.navbar-link{
+	padding-top: 0.5em;
+	padding-right: 3em;
+	font-size: 1.2em;
+  color: #000 !important;
+}
+
+/*mobile*/
+.nav-mini{
+  padding: 3em !important;
+}
+.fa-bars{
+  font-size: 1.2em;
+}
+
+/*Section 1: Register*/
+.register-section{
+	background-image: url(../images/taxi.jpg);
+  background-size: cover;
+  background-position-y: 92%;
+  padding: 15em 0;
+  color: #FFF;
+}
+.register{
+  box-sizing: border-box;
+	background-color: #ffc107;
+  padding: 3em !important;
+}
+.enjoy-text{
+  padding-bottom: 3em;
+  box-sizing: border-box;
+}
+h2{
+  font-size: 3.5em !important;
+}
+.div-travel{
+  padding-right: 0 !important;
+  display: inline-block;
+  margin-left: 0.5em;
+}
+.labcar-logo{
+  padding-left: 1em;
+}
+.text-travel{
+  font-size: 2.1em;
+  font-weight: 700;
+  display: inline-block;
+}
+.button{
+  border: none !important;
+  border-radius: 0.3em !important;
+  padding: 0.4em 0.8em !important;
+  font-size: 1.5em !important;
+  margin-top: 2em;
+}
+.line-row{
+  padding-top: 2em;
+}
+.medium-div{
+  text-align: center;
+}
+/*mobile*/
+.inline-h2{
+  display: inline-block;
+}
+.mini-logo{
+  padding: 0 0 1em 1em;
+}
+
+/*Section 2: Download*/
+.download{
+  box-sizing: border-box;
+  background-color: #ffc107;
+  padding: 6em 6em 6em 0 !important;
+  color: #FFF;
+}
+.download-info{
+  border: 1px solid #FFF;
+  padding: 5em;
+}
+.iphone-photo{
+  padding-left: 15em !important;
+}
+.title{
+  font-size: 2.9em !important;
+  font-weight: 700 !important;
+}
+.body-text{
+  font-size: 1.9em !important;
+  padding-top: 0.9em;
+}
+/*mobile*/
+.new-app{
+  padding-bottom: 2em;
+}
+
+/*Section 3: Driver*/
+.driver{
+  background-image: url(../images/conduce.jpg);
+  background-size: cover;
+  background-position-y: 50%;
+}
+.driver-background{
+  background-color: rgba(0, 0, 0, 0.5);
+  padding: 10em 4em 25em !important;
+  color: #FFF;
+}
+.yellow-button{
+  border: none !important;
+  border-radius: 0.3em !important;
+  padding: 0.4em 0.8em !important;
+  background-color: #ffc107 !important;
+  color: #FFF !important;
+  font-size: 1.5em !important;
+  margin-top: 1em;
+}
+
+/*Section 4: Prices*/
+.prices{
+  background-color: #ffc107;
+  padding: 6em !important;
+  color: #FFF;
+}
+#map{
+  padding: 1em;
+  border: 1px solid #FFF !important;
+}
+.points{
+  padding-top: 3em;
+}
+input{
+  background-color: #ffc107 !important;
+  border-radius: 0.4em !important;
+  border: 1px solid #FFF !important;
+}
+.input-top{
+  margin-bottom: 2em !important;
+}
+::-webkit-input-placeholder{
+  color: #FFF !important;
+}
+.icon-point{
+  padding-top: 0.45em !important;
+  padding-bottom: 2.9em !important;
+}
+.fare{
+  width: fit-content !important;
+  padding: 2em 12em 0 18em !important
+}
+/*movil*/
+.down{
+  padding-top: 8em;
+}
+
+/*Footer*/
+footer{
+  background-color: #3B3B3BFF;
+  padding: 8em 10em 5em;
+  color: #FFF;
+}
+.social-media{
+  padding: 27.8em 0 0 2.2em !important;
+}
+.fa{
+  padding-right: 0.5em;
+}
+.tag{
+  padding-bottom: 1em;
+  font-size: 1.2em;
+}
+.first-tag{
+  padding-top: 1em;
+}
+.google{
+  padding-top: 1.5em;
+}
+.apple{
+  padding-top: 19em;
+}
+.footer-legend{
+  font-size: 1.2em;
+}
+/*mobile*/
+.mini-footer{
+  background-color: #3B3B3BFF;
+  padding: 3em;
+  color: #FFF;
+}
+.mini-icons{
+  padding-top: 1em;
+}
+.div-mini-tag{
+  padding-left: 2em !important;
+}
+.apple-mini{
+  padding-top: 3em;
+}
